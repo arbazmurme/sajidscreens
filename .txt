@@ -1,0 +1,32 @@
+ <div class="col-2">
+                    <ul
+                        class="border-b border-gray-600 md:border-none md:border-r md:border-gray-600 py-4 md:py-0 md:mr-6 ">
+                        <li class="my-2 hover:text-primaryRed "><a href="#home" class="text-white">Home</a></li>
+                        <li class="my-2 hover:text-primaryRed"><a href="#infrastructure"
+                                class="text-white">Infrastructure</a></li>
+                        <li class="my-2 hover:text-primaryRed"><a href="#testimonials"
+                                class="text-white">Testimonials</a></li>
+                        <li class="my-2 hover:text-primaryRed"><a href="#aboutus" class="text-white">About Us</a></li>
+                        <li class="my-2 hover:text-primaryRed"><a href="#contact" class="text-white">Contact Us</a></li>
+                    </ul>
+                </div>
+                <div class="col-2">
+                    <ul>
+                        <li class="my-2 hover:text-primaryRed"><a href="" class="text-white">Business Cards</a></li>
+                        <li class="my-2 hover:text-primaryRed"><a href="" class="text-white">Letter Heads</a></li>
+                        <li class="my-2 hover:text-primaryRed"><a href="" class="text-white">Wedding Invitations</a>
+                        </li>
+                        <li class="my-2 hover:text-primaryRed"><a href="" class="text-white">Mug Printing</a></li>
+                        <li class="my-2 hover:text-primaryRed"><a href="" class="text-white">Photo Calendar</a></li>
+                        <li class="my-2 hover:text-primaryRed"><a href="" class="text-white">Flyers</a></li>
+                    </ul>
+                </div>
+                <div class="col-2">
+                    <ul>
+                        <li class="my-2 hover:text-primaryRed"><a href="" class="text-white">Clothing</a></li>
+                        <li class="my-2 hover:text-primaryRed"><a href="" class="text-white">Stickers</a></li>
+                        <li class="my-2 hover:text-primaryRed"><a href="" class="text-white">Banners</a></li>
+                        <li class="my-2 hover:text-primaryRed"><a href="" class="text-white">Face Masks</a></li>
+                        <li class="my-2 hover:text-primaryRed"><a href="" class="text-white">Other Products</a></li>
+                    </ul>
+                </div>
